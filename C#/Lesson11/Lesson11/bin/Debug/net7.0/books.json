@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Sefiller",
+    "Author": "Victor Hugo",
+    "Genre": "Drama"
+  },
+  {
+    "Id": 2,
+    "Name": "1984",
+    "Author": "Geogre Orweel",
+    "Genre": "Drama"
+  },
+  {
+    "Id": 3,
+    "Name": "Angels and Demons",
+    "Author": "Dan Brown",
+    "Genre": "Dedective"
+  }
+]
