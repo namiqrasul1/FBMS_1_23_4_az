@@ -122,6 +122,7 @@
             Margin = new Padding(5);
             Name = "Form1";
             Text = "Form1";
+            MouseClick += Form1_MouseClick;
             ResumeLayout(false);
             PerformLayout();
         }
