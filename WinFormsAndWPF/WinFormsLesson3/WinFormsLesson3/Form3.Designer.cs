@@ -40,6 +40,7 @@
             BtncColor = new Button();
             BtnSelectFolder = new Button();
             label1 = new Label();
+            comboBox1 = new ComboBox();
             SuspendLayout();
             // 
             // btnSave
@@ -120,11 +121,20 @@
             label1.TabIndex = 2;
             label1.Text = "label1";
             // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Location = new Point(489, 17);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(237, 31);
+            comboBox1.TabIndex = 3;
+            // 
             // Form3
             // 
             AutoScaleDimensions = new SizeF(9F, 23F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1029, 690);
+            Controls.Add(comboBox1);
             Controls.Add(label1);
             Controls.Add(richTextBox1);
             Controls.Add(BtnSelectFolder);
@@ -154,5 +164,6 @@
         private Button BtncColor;
         private Button BtnSelectFolder;
         private Label label1;
+        private ComboBox comboBox1;
     }
 }

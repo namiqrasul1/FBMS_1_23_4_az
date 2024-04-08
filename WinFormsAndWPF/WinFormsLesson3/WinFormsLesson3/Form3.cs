@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Text;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,6 +16,11 @@ namespace WinFormsLesson3
         public Form3()
         {
             InitializeComponent();
+            using InstalledFontCollection ifc = new();
+            foreach (var fa in ifc.Families)
+            {
+                comboBox1.Items.Add(fa.Name);
+            }
         }
 
         private void BtnSave_Click(object sender, EventArgs e)

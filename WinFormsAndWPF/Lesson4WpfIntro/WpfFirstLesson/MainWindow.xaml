@@ -1,0 +1,110 @@
+﻿<Window x:Class="WpfFirstLesson.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFirstLesson"
+        mc:Ignorable="d"
+        
+        Title="FirstLesson" Height="400" Width="600"  MaxHeight="850" MinHeight="150"
+        ResizeMode="CanResize" FontFamily="Comic Sans Ms" FontSize="18" >
+
+    <Window.Background>
+        <!--<RadialGradientBrush>
+            <GradientStop Color="red"/>
+            <GradientStop Color="Blue" Offset="0.3"/>
+            <GradientStop Color="Green" Offset="0.4"/>
+            <GradientStop Color="Yellow" Offset="0.1"/>
+        </RadialGradientBrush>-->
+        <!--<LinearGradientBrush>
+            <GradientStop Color="Red"/>
+            <GradientStop Color="Blue" Offset="1.1"/>
+        </LinearGradientBrush>-->
+
+        <ImageBrush ImageSource="https://tinyjpg.com/images/social/website.jpg"  Stretch="Uniform"/>
+    </Window.Background>
+    
+    
+    
+    
+    <!--
+    WindowState="Maximized"
+    WindowStyle
+    -->
+    
+    <!--<Window.MaxWidth>
+        450
+    </Window.MaxWidth>-->
+
+    <Grid Name="step">
+     
+        <!--<Button Content="Click me" Width="100" Height="50" FontWeight="UltraBold" 
+                FontSize="18" FontFamily="Perpetua Titling MT"/>-->
+
+        
+        
+        
+        <!--<Button Content="Click me" Width="100" Height="50" FontWeight="UltraBold" 
+                FontSize="18" FontFamily="Perpetua Titling MT" Foreground="Red" Background="Gray" 
+                BorderBrush="Green" BorderThickness="10"/>-->
+
+        
+        
+        
+
+        <!--<Button Content="Click me" Width="100" Height="50" FontWeight="UltraBold" 
+                FontSize="18" FontFamily="Perpetua Titling MT" Click="ClickMeBTN_ClickEvenet" MouseEnter="Button_MouseEnter" />-->
+
+
+        
+        
+        
+        <!--<Button Content="Click me"/>-->
+        <!--<Button>
+            <StackPanel>
+                <Label Content="BTN"/>
+                <Label Content="Salam"/>
+            </StackPanel>
+        </Button>-->
+
+
+
+        <!--
+            HorizontalContentAligment => Controlun daxilindeki  elementin yerini teyin edir
+            HorizontalAligment => Controlun oz yerini teyin edir.
+        
+        -->
+        <!--<Button Content="click me" Width="200" Height="80" 
+                HorizontalContentAlignment="Left" 
+                HorizontalAlignment="Left"
+                VerticalContentAlignment="Top"
+                VerticalAlignment="Bottom"/>-->
+
+
+
+        <!--<Button Content="Left" Width="100" Height="50" HorizontalAlignment="Left"/>
+        <Button Content="Right" Width="100" Height="50" HorizontalAlignment="Right"/>
+        
+        <Button Content="Right" Width="100" Height="50" 
+                HorizontalAlignment="Right" 
+                VerticalAlignment="Bottom"/>-->
+
+
+
+        <!--<Button Content="Click Me" Width="100" Height="50" 
+                BorderBrush="Transparent" BorderThickness="3"/>-->
+
+
+
+        <Button Content="Click Me" Width="100" Height="50" 
+                BorderBrush="Transparent" BorderThickness="3" Background="#3476E4" MouseDoubleClick="ss"/>
+
+
+        
+
+
+
+
+    </Grid>
+
+</Window>
