@@ -1,0 +1,175 @@
+﻿<Window x:Class="Lesson6WpfControls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lesson6WpfControls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        >
+    <!--<Grid>
+        --><!--<Border BorderBrush="Aquamarine" BorderThickness="4" CornerRadius="20">
+            <Button></Button>
+        </Border>--><!--
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Button Name="btn" ToolTip="Hello World" Click="btn_Click">
+            <Button.Background>
+                <LinearGradientBrush >
+                    <GradientStop Color="Yellow"></GradientStop>
+                    <GradientStop Color="Blue" Offset="1"></GradientStop>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Label Grid.Column="1" Background="HotPink" FontSize="16" FontFamily="Comic Sans MS" Name="lbl">Hakuna Matata</Label>
+
+        <ProgressBar Grid.Row="1" Grid.Column="1" Value="10" Maximum="100" Minimum="0" Name="prgBar"></ProgressBar>
+
+        <RepeatButton Grid.Row="1" Click="btn_Click">RepeatButton</RepeatButton>
+
+        <StackPanel Grid.Row="2">
+            <Slider Margin="5" Name="sldR" Maximum="255" Minimum="0" LargeChange="10" ValueChanged="sld_ValueChanged"></Slider>
+            <Slider Margin="5" Name="sldG" Maximum="255" Minimum="0" LargeChange="10" ValueChanged="sld_ValueChanged"></Slider>
+            <Slider Margin="5" Name="sldB" Maximum="255" Minimum="0" LargeChange="10" ValueChanged="sld_ValueChanged"></Slider>
+        </StackPanel>
+        
+    </Grid>-->
+
+
+    <!--<StackPanel>
+        <CheckBox Content="Check Me!!" IsChecked="False" IsEnabled="True">
+            <CheckBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <Label>Oxudunsa Her sheyi qush qoy</Label>
+                    <Image Source="C:\Users\namiqrasullu\Desktop\right.png" Height="50" Width="50"></Image>
+                </StackPanel>
+            </CheckBox.ToolTip>
+
+            <CheckBox.RenderTransform>
+                <SkewTransform AngleX="30"></SkewTransform>
+            </CheckBox.RenderTransform>
+        </CheckBox>
+
+        <Button Height="60" BorderThickness="10, 20, 5, 3" BorderBrush="Azure"></Button>
+
+        
+        <RadioButton GroupName="A">1</RadioButton>
+        <RadioButton GroupName="B">2</RadioButton>
+        <RadioButton GroupName="B">3</RadioButton>
+        <RadioButton GroupName="A">4</RadioButton>
+
+        <TextBox Height="80" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" AcceptsReturn="True" ></TextBox>
+
+        <TextBlock Text="Hakuna MatataHakuna MatataHakuna MatataHakuna MatataHakuna MatataHakuna MatataHakuna Matata" TextWrapping="Wrap" Height="50"> </TextBlock>
+    </StackPanel>-->
+
+    <ScrollViewer HorizontalScrollBarVisibility="Auto">
+
+        <StackPanel>
+
+            <Expander Margin="5" Header="Babat Header" BorderBrush="DimGray" Padding="10">
+                <StackPanel>
+                    <Label>Hakuna Matata</Label>
+                    <Button Click="Button_Click_1_For_Expander">Click ME!</Button>
+                </StackPanel>
+            </Expander>
+            <Expander Margin="5" Header="Babat Header"  BorderBrush="DimGray" Padding="10">
+                <StackPanel>
+                    <Label>Hakuna Matata</Label>
+                    <Button Click="Button_Click_1_For_Expander">Click ME!</Button>
+                </StackPanel>
+            </Expander>
+            <Expander Margin="5" Header="Babat Header"  BorderBrush="DimGray" Padding="10">
+                <StackPanel>
+                    <Label>Hakuna Matata</Label>
+                    <Button Click="Button_Click_1_For_Expander">Click ME!</Button>
+                </StackPanel>
+            </Expander>
+            <Expander Margin="5" Header="Babat Header" BorderBrush="DimGray" Padding="10">
+                <StackPanel>
+                    <Label>Hakuna Matata</Label>
+                    <Button Click="Button_Click_1_For_Expander">Click ME!</Button>
+                </StackPanel>
+            </Expander>
+            <Expander Margin="5" Header="Babat Header" BorderBrush="DimGray" Padding="10">
+                <StackPanel>
+                    <Label>Hakuna Matata</Label>
+                    <Button Click="Button_Click_1_For_Expander">Click ME!</Button>
+                </StackPanel>
+            </Expander>
+            <Expander Margin="5" Header="Babat Header" BorderBrush="DimGray" Padding="10">
+                <StackPanel>
+                    <Label>Hakuna Matata</Label>
+                    <Button Click="Button_Click_1_For_Expander">Click ME!</Button>
+                </StackPanel>
+            </Expander>
+
+        </StackPanel>
+        
+    </ScrollViewer>
+
+    <!--<StackPanel>
+        <ComboBox>
+            <Label>1</Label>
+            <Label>2</Label>
+            <Label>3</Label>
+            <Label>4</Label>
+        </ComboBox>
+        
+
+    </StackPanel>-->
+
+    <!--<Grid>
+        --><!--<TabControl>
+            <TabItem>
+                <TabItem.Header>Hakuna</TabItem.Header>
+                Matata
+            </TabItem>
+            <TabItem>
+                <TabItem.Header>John</TabItem.Header>
+                Doe
+            </TabItem>
+            <TabItem>
+                <TabItem.Header>Barbara</TabItem.Header>
+                Kamil
+            </TabItem>
+        </TabControl>--><!--
+
+        <TextBlock Text="{Binding Text}"></TextBlock>
+    </Grid>-->
+
+    <!--<Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <ListBox SelectionMode="Single" Margin="5" Name="CarList" FontSize="15" SelectionChanged="CarList_SelectionChanged" ItemsSource="{Binding Cars, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></ListBox>
+        <StackPanel Grid.Column="1">
+            <Label Content="Vendor:" FontSize="15"></Label>
+            <Label Name="LblVendor" FontSize="15" Foreground="DarkCyan"></Label>
+            <Label Content="Model:" FontSize="15"></Label>
+            <Label Name="LblModel" FontSize="15" Foreground="DarkCyan"></Label>
+            <Label Content="Year:" FontSize="15"></Label>
+            <Label Name="LblYear" FontSize="15" Foreground="DarkCyan"></Label>
+
+            <Button Content="Add car" Click="Button_Click"></Button>
+
+            <ComboBox ItemsSource="{Binding Cars}"></ComboBox>
+            
+        </StackPanel>
+    </Grid>-->
+    
+    
+</Window>
