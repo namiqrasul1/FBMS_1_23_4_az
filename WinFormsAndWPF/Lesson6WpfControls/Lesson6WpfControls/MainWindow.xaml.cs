@@ -62,10 +62,9 @@ namespace Lesson6WpfControls
             {
                 if(btn.Parent is StackPanel sp)
                 {
-                    if (sender is Button btn)
-                    {
-                        //sp.Children.Clear();
-                        if (sp.Parent is Expander ex)
+
+                    //sp.Children.Clear();
+                    if(sp.Parent is Expander ex)
                     {
                         ex.Header = "Changed";
                     }
