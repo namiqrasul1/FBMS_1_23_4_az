@@ -1,0 +1,18 @@
+﻿<Window x:Class="Lesson9WpfResoucreBinding.InfoCarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lesson9WpfResoucreBinding"
+        mc:Ignorable="d"
+        Title="InfoCarWindow" Height="450" Width="800" FontSize="20">
+        <StackPanel>
+            <Label Content="Vendor:"/>
+            <TextBox Text="{Binding MyCar.Vendor, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Content="Model:"/>
+            <TextBox Text="{Binding MyCar.Model, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Content="Year:"/>
+            <TextBox Text="{Binding MyCar.Year, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+        </StackPanel>
+</Window>

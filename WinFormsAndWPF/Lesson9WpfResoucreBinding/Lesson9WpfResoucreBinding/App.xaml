@@ -1,0 +1,24 @@
+﻿<Application x:Class="Lesson9WpfResoucreBinding.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lesson9WpfResoucreBinding" 
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            
+            <ResourceDictionary.MergedDictionaries>
+                
+                <ResourceDictionary>
+                    <SolidColorBrush x:Key="primaryColor">HotPink</SolidColorBrush>
+                    <sys:Double x:Key="primaryHeight">55</sys:Double>
+                </ResourceDictionary>
+
+                <ResourceDictionary Source="Dictionary1.xaml"></ResourceDictionary>
+                
+            </ResourceDictionary.MergedDictionaries>
+            
+        </ResourceDictionary>
+        
+    </Application.Resources>
+</Application>
