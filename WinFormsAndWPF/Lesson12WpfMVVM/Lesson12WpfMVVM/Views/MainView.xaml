@@ -1,0 +1,19 @@
+﻿<Window x:Class="Lesson12WpfMVVM.Views.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lesson12WpfMVVM.Views"
+        mc:Ignorable="d"
+        Title="MainView" Height="450" Width="800" FontSize="20">
+    <StackPanel>
+        <Label Content="Name" Foreground="DeepSkyBlue"/>
+        <Label Content="{Binding Book.Name}" Foreground="HotPink"/>
+        <Label Content="Author" Foreground="DeepSkyBlue"/>
+        <Label Content="{Binding Book.Author}" Foreground="HotPink"/>
+        <Label Content="PublishYear" Foreground="DeepSkyBlue"/>
+        <Label Content="{Binding Book.PublishYear}" Foreground="HotPink"/>
+
+        <Button Content="Edit" Background="DeepSkyBlue" Foreground="HotPink" Height="50" Width="100" FontWeight="Bold" Command="{Binding EditCommand}"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson12wpfmvvm\\lesson12wpfmvvm\\views\\editview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|solutionrelative:lesson12wpfmvvm\\views\\editview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson12wpfmvvm\\lesson12wpfmvvm\\views\\editview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|solutionrelative:lesson12wpfmvvm\\views\\editview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson12wpfmvvm\\lesson12wpfmvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|solutionrelative:lesson12wpfmvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson12wpfmvvm\\lesson12wpfmvvm\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|solutionrelative:lesson12wpfmvvm\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson12wpfmvvm\\lesson12wpfmvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|solutionrelative:lesson12wpfmvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson12wpfmvvm\\lesson12wpfmvvm\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|solutionrelative:lesson12wpfmvvm\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson12wpfmvvm\\lesson12wpfmvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|solutionrelative:lesson12wpfmvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson12wpfmvvm\\lesson12wpfmvvm\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|solutionrelative:lesson12wpfmvvm\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson12wpfmvvm\\lesson12wpfmvvm\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CD8EF2-5D2E-4C08-9F78-3CF145BCDA7E}|Lesson12WpfMVVM\\Lesson12WpfMVVM.csproj|solutionrelative:lesson12wpfmvvm\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Views\\EditView.xaml.cs",
+              "RelativeDocumentMoniker": "Lesson12WpfMVVM\\Views\\EditView.xaml.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Views\\EditView.xaml.cs",
+              "RelativeToolTip": "Lesson12WpfMVVM\\Views\\EditView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:51:23.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\ViewModels\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "Lesson12WpfMVVM\\ViewModels\\EditViewModel.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\ViewModels\\EditViewModel.cs",
+              "RelativeToolTip": "Lesson12WpfMVVM\\ViewModels\\EditViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:48:49.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditView.xaml",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Views\\EditView.xaml",
+              "RelativeDocumentMoniker": "Lesson12WpfMVVM\\Views\\EditView.xaml",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Views\\EditView.xaml",
+              "RelativeToolTip": "Lesson12WpfMVVM\\Views\\EditView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T06:46:17.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\App.xaml",
+              "RelativeDocumentMoniker": "Lesson12WpfMVVM\\App.xaml",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\App.xaml",
+              "RelativeToolTip": "Lesson12WpfMVVM\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T06:44:40.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "Lesson12WpfMVVM\\Views\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "Lesson12WpfMVVM\\Views\\MainView.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:43:27.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Lesson12WpfMVVM\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Lesson12WpfMVVM\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:37:11.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Lesson12WpfMVVM\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Lesson12WpfMVVM\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:34:27.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Lesson12WpfMVVM\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Models\\Book.cs",
+              "RelativeToolTip": "Lesson12WpfMVVM\\Models\\Book.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAtwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:29:18.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "Lesson12WpfMVVM\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson12WpfMVVM\\Lesson12WpfMVVM\\Views\\MainView.xaml",
+              "RelativeToolTip": "Lesson12WpfMVVM\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T06:28:56.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AQIAABsAAAAAAAAAAAApwCcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:43:10.277Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
