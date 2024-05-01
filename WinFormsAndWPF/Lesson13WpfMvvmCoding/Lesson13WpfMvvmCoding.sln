@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13WpfMvvmCoding", "Lesson13WpfMvvmCoding\Lesson13WpfMvvmCoding.csproj", "{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0537075B-81A4-4C97-9F7C-1CB2AED562C6}
+	EndGlobalSection
+EndGlobal

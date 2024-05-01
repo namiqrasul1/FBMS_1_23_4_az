@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\views\\editview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\views\\editview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\views\\editview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\views\\editview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson13wpfmvvmcoding\\lesson13wpfmvvmcoding\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F6EFF4-F713-4323-975A-8BBBF2A1FD72}|Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding.csproj|solutionrelative:lesson13wpfmvvmcoding\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\ViewModels\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\ViewModels\\EditViewModel.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\ViewModels\\EditViewModel.cs",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\ViewModels\\EditViewModel.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:02:32.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Views\\EditView.xaml.cs",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\Views\\EditView.xaml.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Views\\EditView.xaml.cs",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\Views\\EditView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:02:12.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditView.xaml",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Views\\EditView.xaml",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\Views\\EditView.xaml",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Views\\EditView.xaml",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\Views\\EditView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T07:02:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:01:44.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:36:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\Views\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\Views\\MainView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:22:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Models\\Person.cs",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\Models\\Person.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:20:29.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\App.xaml",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\App.xaml",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\App.xaml",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T05:15:53.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Views\\MainView.xaml",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T05:12:24.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Lesson13WpfMvvmCoding\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson13WpfMvvmCoding\\Lesson13WpfMvvmCoding\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Lesson13WpfMvvmCoding\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:32:44.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
