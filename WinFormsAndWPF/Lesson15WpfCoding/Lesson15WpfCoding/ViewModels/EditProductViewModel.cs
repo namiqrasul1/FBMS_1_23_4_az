@@ -3,40 +3,42 @@ using Lesson15WpfCoding.Data;
 using Lesson15WpfCoding.Models;
 using Lesson15WpfCoding.Services;
 using Lesson15WpfCoding.Views;
+using System;
+using System.Collections.Generic;
 using System.ComponentModel;
+using System.Linq;
 using System.Runtime.CompilerServices;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Lesson15WpfCoding.ViewModels
 {
-    public class AddProductViewModel : ViewModel, INotifyPropertyChanged
+    public class EditProductViewModel : ViewModel, INotifyPropertyChanged
     {
-        private Product product;
+        private Product? product;
         private readonly INavigationService navigationService;
 
-        public Product Product { get => product; set { product = value; OnPropertyChanged(); } }
-
+        public EditProductViewModel(AppDbContext dbContext, INavigationService navigationService)
+        {
+            DbContext = dbContext;
+            this.navigationService = navigationService;
+            SaveCommand = new RelayCommand(Edit);
+            CancelCommand = new RelayCommand(Cancel);
+        }
+        public Product? Product { get => product; set { product = value; OnPropertyChanged(); } }
         public RelayCommand SaveCommand { get; set; }
         public RelayCommand CancelCommand { get; set; }
         public AppDbContext DbContext { get; set; }
-
-        public AddProductViewModel(AppDbContext dbContext, INavigationService navigationService)
-        {
-            SaveCommand = new RelayCommand(Save);
-            CancelCommand = new RelayCommand(Cancel);
-            Product = new();
-            DbContext = dbContext;
-            this.navigationService = navigationService;
-        }
 
         private void Cancel(object? obj)
         {
             navigationService.Navigate<AllProductsView, AllProductsViewModel>();
         }
 
-        private void Save(object? obj)
+        private void Edit(object? obj)
         {
-            DbContext.AddProduct(Product);
-            Product = new();
+            DbContext.UpdateProduct(Product!);
+            navigationService.Navigate<AllProductsView, AllProductsViewModel>();
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;

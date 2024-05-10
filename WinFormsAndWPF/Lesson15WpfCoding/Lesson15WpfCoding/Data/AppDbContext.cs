@@ -7,6 +7,11 @@ public  class AppDbContext
 {
     public ObservableCollection<Product> Products { get; set; } = new() { new Product(), new Product() };
 
+    public Product? GetProduct(string productId)
+    {
+        return Products.FirstOrDefault(p => p.Id == productId);
+    }
+
     public void AddProduct(Product product) => Products.Add(product);
 
     public void RemoveProduct(Product product) => Products.Remove(product); 

@@ -1,5 +1,6 @@
 ﻿using Lesson15WpfCoding.Commands;
 using Lesson15WpfCoding.Data;
+using Lesson15WpfCoding.Services;
 using Lesson15WpfCoding.Views;
 using System;
 using System.Collections.Generic;
@@ -12,37 +13,39 @@ using System.Windows.Controls;
 
 namespace Lesson15WpfCoding.ViewModels
 {
-    public class MainViewModel : INotifyPropertyChanged
+    public class MainViewModel : ViewModel, INotifyPropertyChanged
     {
         public RelayCommand AddCommand { get; set; }
         public RelayCommand AllProductsCommand { get; set; }
         public AppDbContext DbContext { get; set; }
 
         private Page currentPage;
+        private readonly INavigationService navigationService;
+
         public Page CurrentPage
         {
             get { return currentPage; }
             set { currentPage = value;  OnPropertyChanged(); }
         }
 
-        public MainViewModel(AppDbContext dbContext)
+        public MainViewModel(AppDbContext dbContext, INavigationService navigationService)
         {
             AddCommand = new RelayCommand(Add);
             AllProductsCommand = new(All);
-
+            currentPage = App.Container.GetInstance<AllProductsView>();
+            currentPage.DataContext = App.Container.GetInstance<AllProductsViewModel>();
             DbContext = dbContext;
+            this.navigationService = navigationService;
         }
 
         private void All(object? obj)
         {
-            CurrentPage = App.Container.GetInstance<AllProductsView>();
-            CurrentPage.DataContext = App.Container.GetInstance<AllProductsViewModel>();
+            navigationService.Navigate<AllProductsView, AllProductsViewModel>();
         }
 
         public void Add(object? parameter)
         {
-            CurrentPage = App.Container.GetInstance<AddProductView>();
-            CurrentPage.DataContext = App.Container.GetInstance<AddProductViewModel>();
+            navigationService.Navigate<AddProductView, AddProductViewModel>();
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;
