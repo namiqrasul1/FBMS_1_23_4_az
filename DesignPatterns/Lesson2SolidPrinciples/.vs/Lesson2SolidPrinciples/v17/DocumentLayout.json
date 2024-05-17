@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson2solidprinciples\\lesson2solidprinciples\\opencloseprinciple\\services\\yandexmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|solutionrelative:lesson2solidprinciples\\opencloseprinciple\\services\\yandexmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson2solidprinciples\\lesson2solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|solutionrelative:lesson2solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson2solidprinciples\\lesson2solidprinciples\\opencloseprinciple\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|solutionrelative:lesson2solidprinciples\\opencloseprinciple\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson2solidprinciples\\lesson2solidprinciples\\opencloseprinciple\\services\\gmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|solutionrelative:lesson2solidprinciples\\opencloseprinciple\\services\\gmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson2solidprinciples\\lesson2solidprinciples\\opencloseprinciple\\services\\yahoomailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|solutionrelative:lesson2solidprinciples\\opencloseprinciple\\services\\yahoomailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson2solidprinciples\\lesson2solidprinciples\\interfacesegregation\\is.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|solutionrelative:lesson2solidprinciples\\interfacesegregation\\is.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson2solidprinciples\\lesson2solidprinciples\\opencloseprinciple\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|solutionrelative:lesson2solidprinciples\\opencloseprinciple\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson2solidprinciples\\lesson2solidprinciples\\singleresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DA3F47-AA39-4B0A-AF6D-EDDEE670477A}|Lesson2SolidPrinciples\\Lesson2SolidPrinciples.csproj|solutionrelative:lesson2solidprinciples\\singleresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IS.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\InterfaceSegregation\\IS.cs",
+              "RelativeDocumentMoniker": "Lesson2SolidPrinciples\\InterfaceSegregation\\IS.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\InterfaceSegregation\\IS.cs",
+              "RelativeToolTip": "Lesson2SolidPrinciples\\InterfaceSegregation\\IS.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwFMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:15:24.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YahooMailService.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\YahooMailService.cs",
+              "RelativeDocumentMoniker": "Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\YahooMailService.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\YahooMailService.cs",
+              "RelativeToolTip": "Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\YahooMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:07:23.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\IMailService.cs",
+              "RelativeDocumentMoniker": "Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\IMailService.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\IMailService.cs",
+              "RelativeToolTip": "Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:04:54.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YandexMailService.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\YandexMailService.cs",
+              "RelativeDocumentMoniker": "Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\YandexMailService.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\YandexMailService.cs",
+              "RelativeToolTip": "Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\YandexMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:02:08.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GmailService.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\GmailService.cs",
+              "RelativeDocumentMoniker": "Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\GmailService.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\GmailService.cs",
+              "RelativeToolTip": "Lesson2SolidPrinciples\\OpenClosePrinciple\\Services\\GmailService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:50:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "Lesson2SolidPrinciples\\OpenClosePrinciple\\AccountViewModel.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\OpenClosePrinciple\\AccountViewModel.cs",
+              "RelativeToolTip": "Lesson2SolidPrinciples\\OpenClosePrinciple\\AccountViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:49:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingleResponsibility.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\SingleResponsibility.cs",
+              "RelativeDocumentMoniker": "Lesson2SolidPrinciples\\SingleResponsibility.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\SingleResponsibility.cs",
+              "RelativeToolTip": "Lesson2SolidPrinciples\\SingleResponsibility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:03:08.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson2SolidPrinciples\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson2SolidPrinciples\\Lesson2SolidPrinciples\\Program.cs",
+              "RelativeToolTip": "Lesson2SolidPrinciples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:02:14.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

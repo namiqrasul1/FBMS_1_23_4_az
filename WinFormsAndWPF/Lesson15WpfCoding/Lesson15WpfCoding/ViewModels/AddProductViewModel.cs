@@ -31,6 +31,7 @@ namespace Lesson15WpfCoding.ViewModels
         private void Cancel(object? obj)
         {
             navigationService.Navigate<AllProductsView, AllProductsViewModel>();
+            Thread.Sleep(15000);
         }
 
         private void Save(object? obj)

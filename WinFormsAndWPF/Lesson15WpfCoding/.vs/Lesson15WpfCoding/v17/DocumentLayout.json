@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson15wpfcoding\\lesson15wpfcoding\\viewmodels\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|solutionrelative:lesson15wpfcoding\\viewmodels\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson15wpfcoding\\lesson15wpfcoding\\views\\addproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|solutionrelative:lesson15wpfcoding\\views\\addproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson15wpfcoding\\lesson15wpfcoding\\viewmodels\\allproductsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|solutionrelative:lesson15wpfcoding\\viewmodels\\allproductsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson15wpfcoding\\lesson15wpfcoding\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|solutionrelative:lesson15wpfcoding\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson15wpfcoding\\lesson15wpfcoding\\viewmodels\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|solutionrelative:lesson15wpfcoding\\viewmodels\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson15wpfcoding\\lesson15wpfcoding\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|solutionrelative:lesson15wpfcoding\\views\\allproductsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson15wpfcoding\\lesson15wpfcoding\\views\\addproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|solutionrelative:lesson15wpfcoding\\views\\addproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\winformsandwpf\\lesson15wpfcoding\\lesson15wpfcoding\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2045AC7F-555D-4809-9491-B263CD27A69C}|Lesson15WpfCoding\\Lesson15WpfCoding.csproj|solutionrelative:lesson15wpfcoding\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -78,24 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\ViewModels\\ViewModel.cs",
-              "RelativeDocumentMoniker": "Lesson15WpfCoding\\ViewModels\\ViewModel.cs",
-              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\ViewModels\\ViewModel.cs",
-              "RelativeToolTip": "Lesson15WpfCoding\\ViewModels\\ViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T07:44:49.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "NavigationService.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Services\\NavigationService.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\Services\\NavigationService.cs",
@@ -103,12 +90,11 @@
               "RelativeToolTip": "Lesson15WpfCoding\\Services\\NavigationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T07:42:21.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T07:42:21.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "INavigationService.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Services\\INavigationService.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\Services\\INavigationService.cs",
@@ -116,12 +102,11 @@
               "RelativeToolTip": "Lesson15WpfCoding\\Services\\INavigationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T07:41:41.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T07:41:41.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\Models\\Product.cs",
@@ -129,12 +114,11 @@
               "RelativeToolTip": "Lesson15WpfCoding\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T07:38:26.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T07:38:26.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EditProductViewModel.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\ViewModels\\EditProductViewModel.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\ViewModels\\EditProductViewModel.cs",
@@ -142,12 +126,11 @@
               "RelativeToolTip": "Lesson15WpfCoding\\ViewModels\\EditProductViewModel.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAAwB4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T07:20:33.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T07:20:33.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AllProductsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\ViewModels\\AllProductsViewModel.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\ViewModels\\AllProductsViewModel.cs",
@@ -155,12 +138,11 @@
               "RelativeToolTip": "Lesson15WpfCoding\\ViewModels\\AllProductsViewModel.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAowCYAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T06:47:28.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T06:47:28.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\ViewModels\\MainViewModel.cs",
@@ -168,37 +150,35 @@
               "RelativeToolTip": "Lesson15WpfCoding\\ViewModels\\MainViewModel.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAkwCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T05:48:32.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T05:48:32.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "AddProductViewModel.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\ViewModels\\AddProductViewModel.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\ViewModels\\AddProductViewModel.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\ViewModels\\AddProductViewModel.cs",
               "RelativeToolTip": "Lesson15WpfCoding\\ViewModels\\AddProductViewModel.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAmwBUAAAAdAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T07:26:14.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AllProductsView.xaml",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\AllProductsView.xaml",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\Views\\AllProductsView.xaml",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\AllProductsView.xaml",
               "RelativeToolTip": "Lesson15WpfCoding\\Views\\AllProductsView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-06T05:56:43.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T05:56:43.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\App.xaml.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\App.xaml.cs",
@@ -206,24 +186,45 @@
               "RelativeToolTip": "Lesson15WpfCoding\\App.xaml.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T06:00:43.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T06:00:43.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "AddProductView.xaml",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\AddProductView.xaml",
+              "RelativeDocumentMoniker": "Lesson15WpfCoding\\Views\\AddProductView.xaml",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\AddProductView.xaml",
+              "RelativeToolTip": "Lesson15WpfCoding\\Views\\AddProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T05:57:21.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\ViewModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Lesson15WpfCoding\\ViewModels\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\ViewModels\\ViewModel.cs",
+              "RelativeToolTip": "Lesson15WpfCoding\\ViewModels\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:44:49.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "EditProductView.xaml",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\EditProductView.xaml",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\Views\\EditProductView.xaml",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\EditProductView.xaml",
               "RelativeToolTip": "Lesson15WpfCoding\\Views\\EditProductView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-10T07:19:49.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T07:19:49.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AllProductsView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\AllProductsView.xaml.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\Views\\AllProductsView.xaml.cs",
@@ -231,12 +232,11 @@
               "RelativeToolTip": "Lesson15WpfCoding\\Views\\AllProductsView.xaml.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T07:09:59.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T07:09:59.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Lesson15WpfCoding\\Data\\AppDbContext.cs",
@@ -244,20 +244,7 @@
               "RelativeToolTip": "Lesson15WpfCoding\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T06:49:04.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddProductView.xaml",
-              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\AddProductView.xaml",
-              "RelativeDocumentMoniker": "Lesson15WpfCoding\\Views\\AddProductView.xaml",
-              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\AddProductView.xaml",
-              "RelativeToolTip": "Lesson15WpfCoding\\Views\\AddProductView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-06T05:57:21.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T06:49:04.348Z"
             },
             {
               "$type": "Document",
@@ -268,8 +255,7 @@
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\WinFormsAndWPF\\Lesson15WpfCoding\\Lesson15WpfCoding\\Views\\MainView.xaml",
               "RelativeToolTip": "Lesson15WpfCoding\\Views\\MainView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-06T06:53:19.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T06:53:19.154Z"
             },
             {
               "$type": "Document",
@@ -281,8 +267,7 @@
               "RelativeToolTip": "Lesson15WpfCoding\\Views\\MainView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T05:58:40.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T05:58:40.637Z"
             },
             {
               "$type": "Document",
@@ -294,8 +279,7 @@
               "RelativeToolTip": "Lesson15WpfCoding\\Views\\AddProductView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T07:37:40.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T07:37:40.811Z"
             }
           ]
         }
