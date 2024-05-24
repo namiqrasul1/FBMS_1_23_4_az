@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116CBC32-092A-4C7C-B7BC-C594C8CF834A}|FlyWeightPattern\\FlyWeightPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson4structuralpatterns\\flyweightpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CBC32-092A-4C7C-B7BC-C594C8CF834A}|FlyWeightPattern\\FlyWeightPattern.csproj|solutionrelative:flyweightpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EAE58-5AC7-4029-B9F1-EC5718C2E6AF}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson4structuralpatterns\\proxypattern\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905EAE58-5AC7-4029-B9F1-EC5718C2E6AF}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EAE58-5AC7-4029-B9F1-EC5718C2E6AF}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson4structuralpatterns\\proxypattern\\bankaccountproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905EAE58-5AC7-4029-B9F1-EC5718C2E6AF}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\bankaccountproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EAE58-5AC7-4029-B9F1-EC5718C2E6AF}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson4structuralpatterns\\proxypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905EAE58-5AC7-4029-B9F1-EC5718C2E6AF}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EAE58-5AC7-4029-B9F1-EC5718C2E6AF}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson4structuralpatterns\\proxypattern\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905EAE58-5AC7-4029-B9F1-EC5718C2E6AF}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CBC32-092A-4C7C-B7BC-C594C8CF834A}|FlyWeightPattern\\FlyWeightPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson4structuralpatterns\\flyweightpattern\\treefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CBC32-092A-4C7C-B7BC-C594C8CF834A}|FlyWeightPattern\\FlyWeightPattern.csproj|solutionrelative:flyweightpattern\\treefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CBC32-092A-4C7C-B7BC-C594C8CF834A}|FlyWeightPattern\\FlyWeightPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson4structuralpatterns\\flyweightpattern\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CBC32-092A-4C7C-B7BC-C594C8CF834A}|FlyWeightPattern\\FlyWeightPattern.csproj|solutionrelative:flyweightpattern\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CBC32-092A-4C7C-B7BC-C594C8CF834A}|FlyWeightPattern\\FlyWeightPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\lesson4structuralpatterns\\flyweightpattern\\treetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CBC32-092A-4C7C-B7BC-C594C8CF834A}|FlyWeightPattern\\FlyWeightPattern.csproj|solutionrelative:flyweightpattern\\treetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccountProxy.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\ProxyPattern\\BankAccountProxy.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\BankAccountProxy.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\ProxyPattern\\BankAccountProxy.cs",
+              "RelativeToolTip": "ProxyPattern\\BankAccountProxy.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:55:24.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\ProxyPattern\\BankAccount.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\ProxyPattern\\BankAccount.cs",
+              "RelativeToolTip": "ProxyPattern\\BankAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:51:50.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\ProxyPattern\\IBankAccount.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\IBankAccount.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\ProxyPattern\\IBankAccount.cs",
+              "RelativeToolTip": "ProxyPattern\\IBankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:50:44.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\ProxyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\ProxyPattern\\Program.cs",
+              "RelativeToolTip": "ProxyPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:50:26.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\FlyWeightPattern\\TreeFactory.cs",
+              "RelativeDocumentMoniker": "FlyWeightPattern\\TreeFactory.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\FlyWeightPattern\\TreeFactory.cs",
+              "RelativeToolTip": "FlyWeightPattern\\TreeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:08:18.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TreeType.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\FlyWeightPattern\\TreeType.cs",
+              "RelativeDocumentMoniker": "FlyWeightPattern\\TreeType.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\FlyWeightPattern\\TreeType.cs",
+              "RelativeToolTip": "FlyWeightPattern\\TreeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:06:33.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\FlyWeightPattern\\Tree.cs",
+              "RelativeDocumentMoniker": "FlyWeightPattern\\Tree.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\FlyWeightPattern\\Tree.cs",
+              "RelativeToolTip": "FlyWeightPattern\\Tree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:00:48.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\FlyWeightPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FlyWeightPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\Lesson4StructuralPatterns\\FlyWeightPattern\\Program.cs",
+              "RelativeToolTip": "FlyWeightPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:59:54.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
