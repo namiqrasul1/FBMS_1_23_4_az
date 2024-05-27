@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\behavioralesignpatterns\\visitorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|solutionrelative:visitorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\behavioralesignpatterns\\visitorpattern\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|solutionrelative:visitorpattern\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\behavioralesignpatterns\\visitorpattern\\instagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|solutionrelative:visitorpattern\\instagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\behavioralesignpatterns\\visitorpattern\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|solutionrelative:visitorpattern\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\behavioralesignpatterns\\visitorpattern\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|solutionrelative:visitorpattern\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\behavioralesignpatterns\\visitorpattern\\imobilevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|solutionrelative:visitorpattern\\imobilevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az\\designpatterns\\behavioralesignpatterns\\visitorpattern\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660BDDE-5EEF-464C-887C-CBC82399431C}|VisitorPattern\\VisitorPattern.csproj|solutionrelative:visitorpattern\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instagram.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\Instagram.cs",
+              "RelativeDocumentMoniker": "VisitorPattern\\Instagram.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\Instagram.cs",
+              "RelativeToolTip": "VisitorPattern\\Instagram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:37:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SnakeGame.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\SnakeGame.cs",
+              "RelativeDocumentMoniker": "VisitorPattern\\SnakeGame.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\SnakeGame.cs",
+              "RelativeToolTip": "VisitorPattern\\SnakeGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:36:03.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nokia.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\Nokia.cs",
+              "RelativeDocumentMoniker": "VisitorPattern\\Nokia.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\Nokia.cs",
+              "RelativeToolTip": "VisitorPattern\\Nokia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:35:39.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPhone.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\IPhone.cs",
+              "RelativeDocumentMoniker": "VisitorPattern\\IPhone.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\IPhone.cs",
+              "RelativeToolTip": "VisitorPattern\\IPhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:35:21.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMobileVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\IMobileVisitor.cs",
+              "RelativeDocumentMoniker": "VisitorPattern\\IMobileVisitor.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\IMobileVisitor.cs",
+              "RelativeToolTip": "VisitorPattern\\IMobileVisitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:34:31.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MobilePhone.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\MobilePhone.cs",
+              "RelativeDocumentMoniker": "VisitorPattern\\MobilePhone.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\MobilePhone.cs",
+              "RelativeToolTip": "VisitorPattern\\MobilePhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:32:28.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "VisitorPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az\\DesignPatterns\\BehavioralesignPatterns\\VisitorPattern\\Program.cs",
+              "RelativeToolTip": "VisitorPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:32:12.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
